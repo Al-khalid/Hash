@@ -6,7 +6,7 @@
 - Added the option to specify the type of crypto
 - I benefited from it in coding CTF challenges
 
-![clarification](https://raw.githubusercontent.com/Al-khalid/crypto/master/d.png)
+![clarification](https://raw.githubusercontent.com/Al-khalid/Hash/master/0.png)
 
 # Usage
 `Select the option you want`
